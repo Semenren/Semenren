@@ -46,7 +46,8 @@ As the industry faces data saturation and energy limits, the naive "scaling laws
 
 * **Paper:** *«Deontological Alignment and Safety Evaluation of Autonomous AI Systems under Resource Constraints»* (Published in Scientific Proceedings, Indexed in RSCI / РИНЦ, 2026).
 * **Technical Writing:** Deep-dives on Habr.com detailing geometry of latent spaces, activation patching mechanics, and benchmark design.
-
+  * 📝 [Analysis of Representation Mechanics (Article #984062)](https://habr.com/ru/articles/984062/)
+  * 📝 [Mechanistic Evaluation Protocols (Article #973682)](https://habr.com/ru/articles/973682/)
 ---
 
 <p align="center">
