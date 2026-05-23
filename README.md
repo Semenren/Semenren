@@ -14,7 +14,7 @@ As the industry faces data saturation and energy limits, the naive "scaling laws
 
 ## 🛠️ Core Projects
 
-### 🛡️ [C.O.N.S.T. / Enforcement Framework](https://github.com/Semenren/activation-steering)
+### 🛡️ [C.O.N.S.T. / Enforcement Framework](https://github.com/Semenren/hyper-ethic)
 *Constitutional Safety Testbed & Inference Alignment for Small Language Models*
 * **The Core:** An end-to-end framework and data pipeline engineered to stress-test and align Small Language Models (SLMs) under simulated infrastructure stress and adversarial conditions.
 * **Key Innovation:** Introduces **Gradient Pressure** evaluation (multi-stage user and optimization scaling) to detect behavioral breaking points where models compromise deontological constraints for performance.
