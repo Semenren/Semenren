@@ -1,43 +1,51 @@
 # 🧠 Semyon Kalchenko
 
-**AI Researcher | Applied Mathematics & ML Undergraduate**
+**AI Researcher & Engineer | Applied Mathematics & Computer Science** *Deepening into Deep Learning foundations, Natural Language Processing, and robust AI Alignment architectures.*
+
 ---
 
-## 🔬 Research Interests & Philosophy
+## 🔬 Research Philosophy & Vision
 
-I operate under the paradigm of **Data Materialism and Techno-Realism**. As the AI industry approaches the physical limits of high-quality human data and computing energy, the mainstream optimism of *"just scale it up"* is hitting a wall.
+I view AI development through the lens of **Techno-Realism and Systems Engineering**. While my current research focuses on AI Safety, Alignment, and Mechanistic Interpretability, I treat AI as a holistic discipline rooted in rigorous continuous mathematics and robust software engineering. 
 
-In resource-constrained environments, autonomous systems inevitably risk **instrumental convergence**—optimizing for self-preservation, simulating rules (sycophancy), or bypassing safety filters to minimize compute. My goal is to build verifiable, mathematically sound, and resource-efficient deontological frameworks that enforce strict constitutional constraints directly into the model's internal representations without degrading baseline capabilities.
+As the industry faces data saturation and energy limits, the naive "scaling laws" approach must transition toward architectural efficiency and algorithmic resilience. My goal is to master the entire stack—from foundational mathematical proofs and data engineering pipelines to internal state representation mechanics—ensuring next-generation autonomous systems remain controllable, predictable, and structurally aligned without sacrificing general intelligence.
 
 ---
 
 ## 🛠️ Core Projects
 
-### 🛡️ [C.O.N.S.T. / Enforcement Framework](https://github.com/Semenren/activation-steering) *(In Active Development)*
-*Constitutional Safety Testbed & Activation Steering for Small Language Models*
-* **The Core:** An adversarial evaluation pipeline designed to stress-test Small Language Models (SLMs) under resource and generation constraints.
-* **Key Innovation:** Features **Gradient Pressure** testing (escalating optimization pressure) to isolate and mathematically locate the precise "breaking points" where models trade alignment for computational efficiency.
-* **Mathematical Metrics:** Computes explicit metrics: Ethical Resilience Index ($ERI$), Protocol Compliance Rate ($PCR$), and Consistency Score ($CS = 1 - \frac{\sigma^2}{0.25}$) to verify representation invariance.
+### 🛡️ [C.O.N.S.T. / Enforcement Framework](https://github.com/Semenren/activation-steering)
+*Constitutional Safety Testbed & Inference Alignment for Small Language Models*
+* **The Core:** An end-to-end framework and data pipeline engineered to stress-test and align Small Language Models (SLMs) under simulated infrastructure stress and adversarial conditions.
+* **Key Innovation:** Introduces **Gradient Pressure** evaluation (multi-stage user and optimization scaling) to detect behavioral breaking points where models compromise deontological constraints for performance.
+* **Algorithmic Metrics:** Computes formal alignment vectors: Ethical Resilience Index ($ERI$), Protocol Compliance Rate ($PCR$), and Representation Invariance via Consistency Scoring ($CS = 1 - \frac{\sigma^2}{0.25}$).
 
-### 🔍 [Mechanistic Interpretability Sandbox](https://github.com/Semenren/gpt2-induction-circuits) *(Private Sandbox)*
-*Causal Localization & Activation Patching in Transformer Models*
-* **The Core:** An activation patching and residual stream patching pipeline using `TransformerLens` to map and analyze induction circuits ($[A][B]...[A] \rightarrow [B]$) in `gpt2-small`.
-* **Interventions:** Investigating the causal role of mid-level attention heads via ablation methods and implementing hidden state suppression in MLP layers to mitigate sycophantic generation patterns.
-
----
-
-## 🧮 Technical Toolkit
-
-* **Deep Learning & Safety:** PyTorch, TransformerLens, Hugging Face Ecosystem (`transformers`, `trl`).
-* **Domain Expertise:** Constitutional AI, Representation Engineering, Activation Patching, Adversarial Benchmarking.
-* **Math Foundations:** Linear Algebra, Applied Probability, Discrete Mathematics, Mathematical Analysis.
+### 🔍 [Mechanistic Interpretability Sandbox](https://github.com/Semenren/gpt2-induction-circuits)
+*Causal Localization & Activation Patching in Autoregressive Transformers*
+* **The Core:** A granular diagnostic pipeline utilizing `TransformerLens` to map sub-graph behaviors and induction circuits ($[A][B]...[A] \rightarrow [B]$) inside running models.
+* **Interventions:** Executed target components ablation (e.g., mid-level attention heads) to quantify shifts in Logit Difference, and designed real-time activation suppression mechanisms within MLP layers to mitigate sycophancy.
 
 ---
 
-## 📄 Publications & Writing
+## 🧮 Expanded Technical Toolkit
+
+### 💻 Software Engineering & Data Science
+* **Languages:** Python (Advanced / Clean Code architecture)
+* **Data Infrastructure:** NumPy, Pandas, Scikit-learn, SciPy, Matplotlib
+
+### 🤖 Deep Learning & AI Research
+* **Core Frameworks:** PyTorch, TransformerLens, 
+* **Domain Specifics:** Natural Language Processing (NLP), Transformer Architectures, Structural Tuning, Representation Steering, Activation Patching, Direct Preference Optimization (DPO), LLM Evaluation Benchmarking, Adversarial Red-Teaming.
+
+### 📐 Theoretical Foundations
+* **Mathematics:** Linear Algebra, Vector Calculus, Discrete Mathematics, Probability Theory & Mathematical Statistics, Theory of Computation.
+
+---
+
+## 📄 Publications & Academic Track
 
 * **Paper:** *«Deontological Alignment and Safety Evaluation of Autonomous AI Systems under Resource Constraints»* (Published in Scientific Proceedings, Indexed in RSCI / РИНЦ, 2026).
-* **Deep Dives:** Technical breakdowns of latent space steering, representation geometry, and mechanistic evaluation protocols.
+* **Technical Writing:** Deep-dives on Habr.com detailing geometry of latent spaces, activation patching mechanics, and benchmark design.
 
 ---
 
